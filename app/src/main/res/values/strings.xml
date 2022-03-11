@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="edit_message">enter a message 输入字符串</string>
+    <string name="send_button">Send</string>
+    <string name="notification_title">notification title</string>
+    <string name="notification_message">notification message</string>
+    <string name="ticker_text">ticker text</string>
+</resources>
